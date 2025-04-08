@@ -1,6 +1,8 @@
-name=Game
-author=
-description=
-bundleID=
+name=Fidget Crank
+author=Chelsey Ingersoll
+description=A fidget toy for the Playdate
+bundleID=com.chelseyful.fidgetcrank
 version=1.0.0
 buildNumber=1
+imagePath=SystemAssets/
+launchSoundPath=sounds/Clap
